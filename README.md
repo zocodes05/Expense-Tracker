@@ -12,11 +12,11 @@ A sleek Streamlit app to track and analyze your expenses.
 
 1. Clone the repository
 
-2. Install dependencies
-pip install streamlit pandas matplotlib
+2. Install dependencies 
+\\ pip install streamlit pandas matplotlib
 
-3. Run the app
-streamlit run app.py
+3. Run the app 
+\\ streamlit run app.py
 
 ## Files
 - app.py - Main application
@@ -32,4 +32,5 @@ streamlit run app.py
 
 ## Note
 Gmail auto-import feature is implemented locally but not included in this public version for security reasons.
+
 

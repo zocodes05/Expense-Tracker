@@ -11,8 +11,6 @@ A sleek Streamlit app to track and analyze your expenses.
 ## Quick Start
 
 1. Clone the repository
-git clone https://github.com/zocodes05/Auto-Expense-Tracker.git
-cd Auto-Expense-Tracker
 
 2. Install dependencies
 pip install streamlit pandas matplotlib
@@ -34,3 +32,4 @@ streamlit run app.py
 
 ## Note
 Gmail auto-import feature is implemented locally but not included in this public version for security reasons.
+

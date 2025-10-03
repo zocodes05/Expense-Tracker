@@ -7,12 +7,12 @@ import os
 
 db = ExpenseDB()
 
-st.title("Personal Expense Tracker")
+st.title("📃Personal Expense Tracker")
 
 page = st.sidebar.selectbox("Choose a page", ["Add Expense", "View Expenses", "Analytics"])
 
 if page == "Add Expense":
-    st.header("Add New Expense")
+    st.header("💰Add New Expense")
 
     col1, col2 = st.columns(2)
 
